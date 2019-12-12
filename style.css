@@ -1,0 +1,11 @@
+#pole{width: 560px;}
+#pole a{width: 120px; height: 120px; float: left; display: block; cursor: pointer; margin: 1px; border: 1px solid #dfdfdf;}
+#pole .pic1{background-image: url(images/face.png);}
+#pole .pic2{background-image: url(images/inst.png);}
+#pole .pic3{background-image: url(images/link.png);}
+#pole .pic4{background-image: url(images/ms.png);}
+#pole .pic5{background-image: url(images/tel.png);}
+#pole .pic6{background-image: url(images/twit.png);}
+#pole .pic7{background-image: url(images/vk.png);}
+#pole .pic8{background-image: url(images/wup.png);}
+#pole .hidden{background-image: url(images/js.png);}
